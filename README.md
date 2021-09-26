@@ -2,7 +2,8 @@
 
 A littile crypto app made using React.js
 
-![Screenshot](crypto_app.png)
+![Screenshot](crypto_1.png)
+![Screenshot](crypto_2.png)
 
 ## Available Scripts
 
